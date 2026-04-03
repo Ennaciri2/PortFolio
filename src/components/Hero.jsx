@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import { Link } from 'react-scroll'
 import { FiArrowRight, FiGithub, FiLinkedin } from 'react-icons/fi'
 
-const roles = ['Data Scientist', 'AI Engineer', 'React Developer', 'ML Practitioner']
+const roles = ['Data Science', 'AI Engineer', 'React Developer', 'ML & Software Development']
 
 const Hero = () => {
   const [roleIdx, setRoleIdx] = useState(0)
@@ -57,9 +57,10 @@ const Hero = () => {
           </p>
 
           <p className="hero-bio">
-            Master's student in Data Science & AI at UM5 Rabat.
-            I build things that are both useful and well-crafted —
-            from ML pipelines to web and mobile interfaces.
+            Master’s student in Data Science & AI at UM5 Rabat,
+            with hands-on experience in machine learning, 
+            data pipelines, and software development.
+            I build useful solutions ranging from ML projects to web and mobile applications.
           </p>
 
           <div className="hero-actions">

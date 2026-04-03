@@ -8,7 +8,7 @@ const experiences = [
     role: 'Data Science / AI Intern',
     points: [
       'Automated scraping of real estate listings from Avito',
-      'Built a data cleaning and feature engineering pipeline',
+      'Built a data cleaning and feature engineering pipeline for rental price prediction',
       'Trained a rental price prediction model (regression / SVM)',
     ],
     tags: ['Python', 'Web Scraping', 'ML', 'Pandas'],
@@ -18,7 +18,7 @@ const experiences = [
     company: 'Ajiapp',
     role: 'React Frontend Developer',
     points: [
-      'Developed a web dashboard with React and Firebase',
+      'Developed a React dashboard with authentication, routing, and dynamic forms for service management',
       'Handled authentication, routing, and dynamic forms',
       'Designed a responsive service management interface',
     ],

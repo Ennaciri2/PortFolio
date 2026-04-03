@@ -3,8 +3,8 @@ import { useInView } from 'react-intersection-observer'
 
 const groups = [
   {
-    label: 'Frontend & Web',
-    skills: ['React.js', 'JavaScript (ES6+)', 'HTML / CSS', 'WordPress', 'Vite'],
+    label: 'Software Development',
+    skills: ['React.js', 'JavaScript (ES6+)', 'HTML / CSS', 'Vite', 'Flask', 'FastAPI' ,'REST APIs'],
   },
   {
     label: 'Data Science & AI',
